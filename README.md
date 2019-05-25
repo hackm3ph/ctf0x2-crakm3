@@ -1,4 +1,4 @@
-ctf0x2-hackm3
+ctf0x2-crakm3
 
 Author: json
 
@@ -6,8 +6,10 @@ Language: C
 
 Platform: Unix/linux
 
-type: reverse
+Title: Crakm3
 
-level: 1
+Goal: bypass the password, find the key and crack it.
 
-The goal is to bypass the password, find the key and crack it.
+Hint: Can you read binary?
+
+type: reversing 
